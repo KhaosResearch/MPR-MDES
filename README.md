@@ -24,5 +24,5 @@ After loading the corresponding dataset in your local drive:
 
 3- Run lines 90-104 to create a dataset with top 20 features of MPR
 
-4- Run lines 109-403 for Multi-objective Discrete Evolution Strategy and its corresponding functions
+4- Run lines 109-403 for Multi-objective Discrete Evolution Strategy and its corresponding functions 
  
