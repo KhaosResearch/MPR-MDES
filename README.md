@@ -4,13 +4,13 @@ This is the implementation of a paper entitled "Pattern recognition frequency-ba
 evolution strategy on high dimentional medical datasets". The proposed feature selection method (MPR-MDES) is a hybrid (filter + wrapper) method which is a direct furture work of [Automatic frequency-based feature selection using discrete weighted evolution strategy](https://https://www.sciencedirect.com/science/article/pii/S1568494622007487#!).
 
 Maximum Pattern Recognition (MPR) is a frequency-based filter ranking method, which belongs to a series of frequency-based methods:
-[Mutual Congestion (MC)] (https://www.sciencedirect.com/science/article/pii/S0888754318304245)
+[Mutual Congestion (MC)](https://www.sciencedirect.com/science/article/pii/S0888754318304245)
 
-[Sorted Label Interference (SLI)] (https://www.sciencedirect.com/science/article/pii/S0306437921000259#!)
+[Sorted Label Interference (SLI)](https://www.sciencedirect.com/science/article/pii/S0306437921000259#!)
 
-[Sorted Label Interference-gamma (SLI-gamma)] (https://link.springer.com/article/10.1007/s11227-022-04650-w)
+[Sorted Label Interference-gamma (SLI-gamma)](https://link.springer.com/article/10.1007/s11227-022-04650-w)
 
-[Extended Mutual Congestion (EMC)] (https://https://www.sciencedirect.com/science/article/pii/S1568494622007487#!).
+[Extended Mutual Congestion (EMC)](https://https://www.sciencedirect.com/science/article/pii/S1568494622007487#!).
 
 ##################### Instruction #########################
 
