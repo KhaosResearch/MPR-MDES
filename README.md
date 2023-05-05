@@ -3,14 +3,15 @@
 This is the implementation of a paper entitled "Pattern recognition frequency-based feature selection with multi-objective discrete
 evolution strategy on high dimentional medical datasets". The proposed feature selection method (MPR-MDES) is a hybrid (filter + wrapper) method which is a direct furture work of [Automatic frequency-based feature selection using discrete weighted evolution strategy](https://https://www.sciencedirect.com/science/article/pii/S1568494622007487#!).
 
-Maximum Pattern Recognition (MPR) is a frequency-based filter ranking method, which belongs to a series of frequency-based methods:
-[Mutual Congestion (MC)](https://www.sciencedirect.com/science/article/pii/S0888754318304245)
+Maximum Pattern Recognition (MPR) is a frequency-based filter ranking method, which belongs to a series of frequency-based rankers:
 
-[Sorted Label Interference (SLI)](https://www.sciencedirect.com/science/article/pii/S0306437921000259#!)
+1- [Mutual Congestion (MC)](https://www.sciencedirect.com/science/article/pii/S0888754318304245)   Publication year: 2019
 
-[Sorted Label Interference-gamma (SLI-gamma)](https://link.springer.com/article/10.1007/s11227-022-04650-w)
+2- [Sorted Label Interference (SLI)](https://www.sciencedirect.com/science/article/pii/S0306437921000259#!)   Publication year: 2021
 
-[Extended Mutual Congestion (EMC)](https://https://www.sciencedirect.com/science/article/pii/S1568494622007487#!).
+3- [Sorted Label Interference-gamma (SLI-gamma)](https://link.springer.com/article/10.1007/s11227-022-04650-w)   Publication year: 2022
+
+4- [Extended Mutual Congestion (EMC)](https://https://www.sciencedirect.com/science/article/pii/S1568494622007487#!).  Publication year: 2022
 
 ##################### Instruction #########################
 
