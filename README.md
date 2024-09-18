@@ -30,7 +30,7 @@ After loading the corresponding dataset from your local drive:
 
 
 
-NOTICE:  In Section 5.2 of the paper, we proposed using macro-averaging for the calculation of precision, recall, and F1-score in the multiclass setting. In Section 5.3, during the experimental analysis, we reported the results based on micro-averaging. However, the difference between macro-averaging and micro-averaging in our scenarios is not significant.
+NOTICE:  In Section 5.2 of the paper, we introduced using macro-averaging for the calculation of precision, recall, and F1-score in the multiclass classification. In Section 5.3, during the experimental analysis, we reported the results based on micro-averaging. However, the difference between macro-averaging and micro-averaging in our scenarios is not significant.
 
 
 **Cite this article**
