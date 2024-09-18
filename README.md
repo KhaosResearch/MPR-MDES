@@ -29,6 +29,10 @@ After loading the corresponding dataset from your local drive:
 4- Run lines 115-409 for Multi-objective Discrete Evolution Strategy and its corresponding functions 
 
 
+
+Typo: According to the definition in Section 5.2 for multiclass, the average parameter in Section 5.3 is macro.
+
+
 **Cite this article**
 
 Hossein Nematzadeh, José García-Nieto, José F. Aldana-Montes, Ismael Navas-Delgado. Pattern recognition frequency-based feature selection with multi-objective discrete evolution strategy for high-dimensional medical datasets. Expert Systems with Applications, Volume 249, Part A, 2024, 123521, ISSN 0957-4174. https://doi.org/10.1016/j.eswa.2024.123521.
